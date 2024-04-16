@@ -15,7 +15,9 @@ You will requrire the following hardware:
 <li>PiicoDev Expansion board for Pico</li>
 <li>Optional: third machine that does not run micropython (like a NUC or Raspberry Pi 3/3B/3B+/4/5)</li>
 </ul>
-## Setup
+
+### Setup
+
 <ol>
   <li>Using the quad expander or stackable headers, connect the display and expansion board to the pico w. If using the stackable headers, make sure the screen is at the top as it is a non-stackable module.</li>
   <li>Using <a href="">This MicroPython image</a>, flash it onto the pico w. Flash <a href="">This image</a> to the Pico. These images do not contain the packages pre-installed. </li>
