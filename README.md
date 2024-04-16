@@ -13,8 +13,10 @@ You will requrire the following hardware:
 <li>PiicoDev BME280 Temperature Sensor</li>
 <li>PiicoDev 915MHz transceiver (2)</li>
 <li>PiicoDev Expansion board for Pico</li>
+<li>200mm Cables for PiicoDev appliances. 
 <li>Optional: third machine that does not run micropython (like a NUC or Raspberry Pi 3/3B/3B+/4/5)</li>
-</ul>
+</ul><br>
+These are all buyable at <a href="https://core-electronics.com.au">Core electronics AU</a>
 
 ### Setup
 
