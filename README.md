@@ -15,6 +15,7 @@ You will requrire the following hardware:
 <li>PiicoDev Expansion board for Pico</li>
 <li>200mm Cables for PiicoDev appliances. 
 <li>Optional: third machine that does not run micropython (like a NUC or Raspberry Pi 3/3B/3B+/4/5)</li>
+<li>Optional: Micro:Bit for a secondary sensor.</li>
 </ul><br>
 These are all buyable at <a href="https://core-electronics.com.au">Core electronics AU</a>
 
